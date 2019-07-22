@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "168Motors-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hunter-zhou-au/168Motors-api.git"
+  },
+  "keywords": [
+    "168motors-api"
+  ],
+  "author": "hunter-zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunter-zhou-au/168Motors-api/issues"
+  },
+  "homepage": "https://github.com/hunter-zhou-au/168Motors-api#readme"
+}
